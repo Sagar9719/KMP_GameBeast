@@ -1,4 +1,4 @@
-# 🎮 GameBeast
+# 🎮 GameBeast 🔥
 
 A **Kotlin Multiplatform Mobile (KMP)** application for discovering
 games, searching titles, and managing favorites.

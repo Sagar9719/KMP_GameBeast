@@ -23,6 +23,7 @@ information, and manage a personal favorites list with offline support.
 
 -   [Overview](#-overview)
 -   [Features](#-features)
+-   [UI](#-ui)
 -   [Architecture](#-architecture)
 -   [Modules](#-modules)
 -   [Data Management](#-data-management)
@@ -78,6 +79,16 @@ The application includes:
 -   Navigate to Game Details
 -   Remove games from favorites
 -   Offline access supported
+
+------------------------------------------------------------------------
+## 🧱 UI
+<img width="1080" height="2220" alt="Screenshot_1771226482" src="https://github.com/user-attachments/assets/e3748a4a-c633-485f-a7bf-25f2fe96a487" />
+<img width="1080" height="2220" alt="Screenshot_1771226352" src="https://github.com/user-attachments/assets/724707ca-b8cc-4720-851e-74fad5207396" />
+<img width="1080" height="2220" alt="Screenshot_1771226482" src="https://github.com/user-attachments/assets/c7703f8b-e7ef-4f02-81d1-a290947f692f" />
+<img width="1080" height="2220" alt="Screenshot_1771226497" src="https://github.com/user-attachments/assets/ce504e6b-db88-4a8a-8fab-0fcbc2d263bc" />
+<img width="1080" height="2220" alt="Screenshot_1771226505" src="https://github.com/user-attachments/assets/042535ca-44f6-4df5-ae30-708bc593fe26" />
+<img width="1080" height="2220" alt="Screenshot_1771226352" src="https://github.com/user-attachments/assets/bc7aa94d-d5e3-497b-8817-6d154bf7a0be" />
+
 
 ------------------------------------------------------------------------
 
